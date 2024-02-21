@@ -17,7 +17,7 @@ git clone <repository-url>
 Navigate to the project directory:
 bash
 Copy code
-cd nodejs-multi-page-site-demo
+cd leaguechamps
 Install dependencies:
 bash
 Copy code
